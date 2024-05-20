@@ -10,7 +10,7 @@ tags:
 - MCQ
 ---
 
-# Dataset Card for Dataset Name
+# COGNET-MD
 Cognitive Network Evaluation Toolkit for Medical Domains (COGNET-MD) 
 
 
